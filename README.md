@@ -1,8 +1,8 @@
 This repository is a collection of projects and coding samples.
 
-1. Royals R Coding Project:
+1. R Coding Sample (Modeling Project):
      This project displays what I have learned over the course of the four years I spent at Williams College using R and analysis.
-     It was a project given to me by the Royals to complete an analysis of throws to first base.
+     It utlizes a large dataset of throws from all fielders in baseballk to complete an analysis of throws to first base.
      Many of the skills used in this project include **Data Manipulation**, **Variable Creation**, **Statistical Modeling**, **Machine Learning**, etc.
 
 3. Baseball Stats:
