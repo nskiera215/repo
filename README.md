@@ -1,6 +1,7 @@
 This repository is a collection of projects and coding samples.
 
 1. R Coding Sample (Modeling Project):
+   
      This project displays what I have learned over the course of the four years I spent at Williams College using R and analysis.
     
      It utlizes a large dataset of throws from all fielders in baseballk to complete an analysis of throws to first base.
